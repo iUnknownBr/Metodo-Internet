@@ -1,4 +1,4 @@
- <a href="#"><img src="https://komarev.com/ghpvc/?username=tskbrasil&style=for-the-badge&label=Views:&color=ff69b4"/></a>
+ <a href="#"><img src="https://komarev.com/ghpvc/?username=net&style=for-the-badge&label=Views:&color=ff69b4"/></a>
 # Método para Usar Dados Móveis com HTTPS Injector e VPNs
 
 ## Descrição
