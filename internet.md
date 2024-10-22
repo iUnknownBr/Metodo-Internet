@@ -1,11 +1,7 @@
- <a href="#"><img src="https://komarev.com/ghpvc/?username=net&style=for-the-badge&label=Views:&color=ff69b4"/></a>
---- 
-
-# 🚀 Método para Usar Dados Móveis com HTTPS Injector.
+# 🚀 Método para Usar Dados Móveis com HTTPS Injector
 
 ## 📄 Descrição
-
-Este método permite que você acesse a internet usando seus dados móveis, mesmo sem saldo. Utilizamos o **HTTPS Injector** e uma **VPN** para contornar restrições e garantir uma navegação segura e eficiente.
+Este método permite que você acesse a internet usando seus dados móveis, mesmo sem saldo. Utilizamos o **HTTPS Injector** para contornar restrições e garantir uma navegação segura e eficiente.
 
 ---
 
@@ -22,25 +18,22 @@ Este método permite que você acesse a internet usando seus dados móveis, mesm
    - Baixe o aplicativo na [Google Play Store](https://play.google.com/store/apps/details?id=stealthvpn.injection).
 
 2. **Obtenha as Configurações**:
-   - Entre no nosso [Discord](https://discord.gg/DWKb32QKkJ) para acessar configurações personalizadas de proxy e VPN.
+   - Entre no nosso [Discord](https://discord.gg/DWKb32QKkJ) para acessar configurações personalizadas de proxy.
 
 3. **Configuração do HTTPS Injector**:
    - Abra o app e insira as configurações de proxy e portas obtidas no Discord.
 
-4. **Conecte-se à VPN**:
-   - Inicie o aplicativo de VPN e conecte-se a um servidor de sua escolha.
-
-5. **Ative o HTTPS Injector**:
+4. **Ative o HTTPS Injector**:
    - Toque para iniciar a injeção de configuração no HTTPS Injector.
 
-6. **Teste a Conexão**:
+5. **Teste a Conexão**:
    - Abra o navegador e verifique se está conectado à internet.
 
 ---
 
 ## 🔧 Dicas Úteis
 
-- 🔄 **Troque de servidor VPN** se a velocidade estiver lenta.
+- 🔄 **Troque de configuração** se a velocidade estiver lenta.
 - 🔍 **Verifique suas configurações de proxy** se houver falha na conexão.
 - 💡 Utilize servidores e apps sempre atualizados para obter a melhor performance.
 
@@ -54,9 +47,4 @@ As configurações necessárias estão disponíveis no nosso Discord. Junte-se p
 
 ---
 
-
-
 ![internet](https://github.com/tskbrasil/imagens/blob/b1fb03d27128abb8c979795b80a8bccd78d7e126/tutorial%20gif.gif)
-
-
-
