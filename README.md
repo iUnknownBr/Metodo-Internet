@@ -63,3 +63,5 @@ Este método é fornecido "como está", sem garantias de qualquer tipo. Utilize 
 Para perguntas ou sugestões, entre em contato através do nosso Discord: 
 
 <a href="https://discord.gg/DWKb32QKkJ"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+
+![tutorial](https://i.imgur.com/hiePzjJ.jpg)
