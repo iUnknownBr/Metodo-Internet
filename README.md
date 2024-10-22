@@ -1,68 +1,61 @@
  <a href="#"><img src="https://komarev.com/ghpvc/?username=net&style=for-the-badge&label=Views:&color=ff69b4"/></a>
-# Método para Usar Dados Móveis com HTTPS Injector e VPNs
+--- 
 
-## Descrição
+# 🚀 Método para Usar Dados Móveis com HTTPS Injector e VPN
 
-Este método permite que você utilize seus dados móveis de forma otimizada e segura, permitindo acesso à internet em qualquer lugar. A técnica envolve o uso do **HTTPS Injector** em conjunto com outros aplicativos de **VPN**. É ideal para usuários que desejam contornar restrições de rede ou melhorar sua privacidade online.
+## 📄 Descrição
 
-## Requisitos
+Este método permite que você acesse a internet usando seus dados móveis, mesmo sem saldo. Utilizamos o **HTTPS Injector** e uma **VPN** para contornar restrições e garantir uma navegação segura e eficiente.
 
-- Um dispositivo Android com acesso à internet.
-- **HTTPS Injector** instalado.
-- Conexão de dados móveis ativa(não precisa ter dados moveis).
+---
 
-## Instalação
+## ✅ Requisitos
 
-1. **Instale o HTTPS Injector:**
-   - Baixe o aplicativo [HTTPS Injector](https://play.google.com/store/apps/details?id=stealthvpn.injection) na Google Play Store.
+- 📱 Dispositivo Android com **HTTPS Injector**.
+- 📶 Dados móveis ativos (mesmo sem saldo).
+- 🔐 Aplicativo de **VPN**.
 
-2. **Configure o aplicativo de VPN:**
-   - Escolha um aplicativo de VPN de sua preferência e instale-o.
+---
 
-## Configuração
+## 🛠️ Passo a Passo
 
-1. **Abra o HTTPS Injector:**
-   - Inicie o aplicativo e vá para as configurações.
+1. **Instale o HTTPS Injector**:
+   - Baixe o aplicativo na [Google Play Store](https://play.google.com/store/apps/details?id=stealthvpn.injection).
 
-2. **Configurações do HTTPS Injector:**
-   - Insira as configurações necessárias, como o URL do proxy, portas e método de autenticação.
-   - Use uma configuração recomendada ou fornecida por seu provedor de serviço.
+2. **Obtenha as Configurações**:
+   - Entre no nosso [Discord](https://discord.gg/DWKb32QKkJ) para acessar configurações personalizadas de proxy e VPN.
 
-3. **Conecte-se à VPN:**
-   - Inicie o aplicativo de VPN e conecte-se a um servidor.
+3. **Configuração do HTTPS Injector**:
+   - Abra o app e insira as configurações de proxy e portas obtidas no Discord.
 
-4. **Ative o HTTPS Injector:**
-   - No HTTPS Injector, ative a opção de injeção de configuração.
+4. **Conecte-se à VPN**:
+   - Inicie o aplicativo de VPN e conecte-se a um servidor de sua escolha.
 
-5. **Verifique a conexão:**
-   - Abra um navegador e teste a conexão para garantir que você esteja online.
+5. **Ative o HTTPS Injector**:
+   - Toque para iniciar a injeção de configuração no HTTPS Injector.
 
-## Como Adquirir Configurações
+6. **Teste a Conexão**:
+   - Abra o navegador e verifique se está conectado à internet.
 
-Para obter configurações específicas ou personalizadas, entre em contato com nossa comunidade no Discord:
+---
 
-<a href="https://discord.gg/DWKb32QKkJ"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+## 🔧 Dicas Úteis
 
-## Dicas
+- 🔄 **Troque de servidor VPN** se a velocidade estiver lenta.
+- 🔍 **Verifique suas configurações de proxy** se houver falha na conexão.
+- 💡 Utilize servidores e apps sempre atualizados para obter a melhor performance.
 
-- **Use configurações de proxy** adequadas para maximizar a eficiência da conexão.
-- **Mantenha o aplicativo de VPN** sempre atualizado para garantir a melhor segurança e desempenho.
-- Teste diferentes servidores de VPN para encontrar o que oferece a melhor velocidade.
+---
 
-## Solução de Problemas
+## 🔗 Comunidade e Suporte
 
-- **Conexão falha:** Verifique suas configurações de proxy e rede.
-- **Velocidade lenta:** Tente mudar o servidor VPN ou a configuração de proxy.
+As configurações necessárias estão disponíveis no nosso Discord. Junte-se para suporte, dicas e atualizações:
 
-## Licença
+[![Discord](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=5865F2&style=for-the-badge)](https://discord.gg/DWKb32QKkJ)
 
-Este método é fornecido "como está", sem garantias de qualquer tipo. Utilize por sua própria conta e risco.
+---
 
-## Contato
 
-Para perguntas ou sugestões, entre em contato através do nosso Discord: 
-
-<a href="https://discord.gg/DWKb32QKkJ"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 
 ![internet](https://github.com/tskbrasil/imagens/blob/b1fb03d27128abb8c979795b80a8bccd78d7e126/tutorial%20gif.gif)
 
