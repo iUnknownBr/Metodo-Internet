@@ -47,4 +47,4 @@ As configurações necessárias estão disponíveis no nosso Discord. Junte-se p
 
 ---
 
-![internet](https://github.com/tskbrasil/imagens/blob/b1fb03d27128abb8c979795b80a8bccd78d7e126/tutorial%20gif.gif)
+![internet](https://github.com/tskbrasil/imagens/blob/588096212d3818cd715b5dad11c12eb49f846b8a/tutorial%20internet.gif)
