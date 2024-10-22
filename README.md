@@ -15,7 +15,7 @@ Este método permite que você acesse a internet usando seus dados móveis, mesm
 ## 🛠️ Passo a Passo
 
 1. **Instale o HTTPS Injector**:
-   - Baixe o aplicativo na [Google Play Store](https://play.google.com/store/apps/details?id=stealthvpn.injection).
+   - Baixe o aplicativo [aqui](https://play.google.com/store/apps/details?id=com.evozi.injector&pcampaignid=web_share).
 
 2. **Obtenha as Configurações**:
    - Entre no nosso [Discord](https://discord.gg/DWKb32QKkJ) para acessar configurações personalizadas de proxy.
