@@ -9,8 +9,7 @@ Este método permite que você utilize seus dados móveis de forma otimizada e s
 
 - Um dispositivo Android com acesso à internet.
 - **HTTPS Injector** instalado.
-- Um aplicativo de **VPN** confiável (por exemplo, **OpenVPN**, **TunnelBear**, etc.).
-- Conexão de dados móveis ativa.
+- Conexão de dados móveis ativa(não precisa ter dados moveis).
 
 ## Instalação
 
