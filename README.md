@@ -64,5 +64,6 @@ Para perguntas ou sugestões, entre em contato através do nosso Discord:
 
 <a href="https://discord.gg/DWKb32QKkJ"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 
-![Tutorial](https://github.com/tskbrasil/imagens/blob/main/tutorial%20internet.mp4)
+![Tutorial de Internet](https://github.com/tskbrasil/imagens/blob/main/thumbnail.png?raw=true)
+
 
