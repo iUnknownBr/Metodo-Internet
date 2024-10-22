@@ -64,7 +64,7 @@ Para perguntas ou sugestões, entre em contato através do nosso Discord:
 
 <a href="https://discord.gg/DWKb32QKkJ"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 
-![Tutorial](https://private-user-images.githubusercontent.com/165577429/334186958-7a77ee4e-8d84-4135-b97c-5408b16f780b.gif)
+![khanthing](https://private-user-images.githubusercontent.com/165577429/334186958-7a77ee4e-8d84-4135-b97c-5408b16f780b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk2MjQxNjMsIm5iZiI6MTcyOTYyMzg2MywicGF0aCI6Ii8xNjU1Nzc0MjkvMzM0MTg2OTU4LTdhNzdlZTRlLThkODQtNDEzNS1iOTdjLTU0MDhiMTZmNzgwYi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAyMlQxOTA0MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YWFiZTE4ZDE0YjdjZDAyZmU4ZjljOTY0NDExNjgwZTJjYmJlMmFmZWFiZmE4NmViNjlhM2U2ZGU4YmQ4MjA3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.qsAjkyJ2B-eIbFv53RzkMpWpm6lq9lV0ZN_uBjHBEOg)
 
 
 
