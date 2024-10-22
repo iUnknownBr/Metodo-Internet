@@ -1,7 +1,7 @@
  <a href="#"><img src="https://komarev.com/ghpvc/?username=net&style=for-the-badge&label=Views:&color=ff69b4"/></a>
 --- 
 
-# 🚀 Método para Usar Dados Móveis com HTTPS Injector e VPN
+# 🚀 Método para Usar Dados Móveis com HTTPS Injector.
 
 ## 📄 Descrição
 
@@ -13,7 +13,6 @@ Este método permite que você acesse a internet usando seus dados móveis, mesm
 
 - 📱 Dispositivo Android com **HTTPS Injector**.
 - 📶 Dados móveis ativos (mesmo sem saldo).
-- 🔐 Aplicativo de **VPN**.
 
 ---
 
