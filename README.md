@@ -18,10 +18,10 @@ Este método permite que você acesse a internet usando seus dados móveis, mesm
    - Baixe o aplicativo [aqui](https://play.google.com/store/apps/details?id=com.evozi.injector&pcampaignid=web_share).
 
 2. **Obtenha as Configurações**:
-   - Entre no nosso [Discord](https://discord.gg/DWKb32QKkJ) para acessar configurações personalizadas de proxy.
+   - Entre no nosso [Discord](https://discord.gg/DWKb32QKkJ) para acessar configurações personalizadas
 
 3. **Configuração do HTTPS Injector**:
-   - Abra o app e insira as configurações de proxy e portas obtidas no Discord.
+   - Abra o app e insira as configurações obtidas no Discord.
 
 4. **Ative o HTTPS Injector**:
    - Toque para iniciar a injeção de configuração no HTTPS Injector.
@@ -34,7 +34,6 @@ Este método permite que você acesse a internet usando seus dados móveis, mesm
 ## 🔧 Dicas Úteis
 
 - 🔄 **Troque de configuração** se a velocidade estiver lenta.
-- 🔍 **Verifique suas configurações de proxy** se houver falha na conexão.
 - 💡 Utilize servidores e apps sempre atualizados para obter a melhor performance.
 
 ---
@@ -48,3 +47,4 @@ As configurações necessárias estão disponíveis no nosso Discord. Junte-se p
 ---
 
 ![internet](https://github.com/tskbrasil/imagens/blob/588096212d3818cd715b5dad11c12eb49f846b8a/tutorial%20internet.gif)
+[tutorial](https://github.com/tskbrasil/imagens/blob/588096212d3818cd715b5dad11c12eb49f846b8a/tutorial%20internet.gif)
