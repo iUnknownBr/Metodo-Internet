@@ -1,4 +1,4 @@
-# 🚀 Método para Usar Dados Móveis com HTTPS Injector
+# 🚀 Método para Usar Dados Móveis com HTTP Injector
 
 ## 📄 Descrição
 Este método permite que você acesse a internet usando seus dados móveis, mesmo sem saldo. Utilizamos o **HTTPS Injector** para contornar restrições e garantir uma navegação segura e eficiente.
